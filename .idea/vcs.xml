@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1_data_modeling_ecommerce" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2_data_integration_golemio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/3_manual_input_keebola" vcs="Git" />
